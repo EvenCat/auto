@@ -26,3 +26,5 @@ bin
 # .gitignore for plugin release file
 *.zip
 .idea/
+
+*.md
