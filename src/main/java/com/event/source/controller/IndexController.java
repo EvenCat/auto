@@ -15,7 +15,7 @@ public class IndexController {
 
     @RequestMapping("/index")
     public String index() {
-        return "success3.0";
+        return "success4.0";
     }
 
 
